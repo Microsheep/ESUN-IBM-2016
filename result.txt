@@ -1,0 +1,16 @@
+No. of Training data: 42585
+No. of Testing data: 10640
+Correct count out of test count: 8730 10640
+Classifier correctly predicted category 82.0488721805 percent of the time
+             precision    recall  f1-score   support
+
+        食       0.75      0.93      0.83      2876
+        住       0.89      0.84      0.87      1546
+        育       0.88      0.91      0.89      1118
+     交通       0.97      0.91      0.94       898
+     運動       0.90      0.68      0.77       672
+     服飾       0.84      0.78      0.81      1694
+     美容       0.96      0.11      0.20       194
+     生活       0.76      0.69      0.72      1642
+
+avg / total       0.83      0.82      0.81     10640
